@@ -1,0 +1,1 @@
+{"Game":{"name":"Game","packages":{"pl.controllers.newGameMethod":{"packageName":"pl.controllers.newGameMethod","isAll":false,"classes":["Lpl.controllers.newGameMethod.AlowersMove"]}}}}
